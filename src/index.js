@@ -16,3 +16,5 @@ var b;
 b=7;
 b=a; //task4
 var a =9; //task5
+var myFirstName="chetan";
+var myLastName="bisht" //task6

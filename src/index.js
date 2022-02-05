@@ -159,3 +159,8 @@ const myArray = [["Bulls",2],["white",3]]; //task40
 const myArray = [50, 60, 70];
 myArray[0];
 const myData = myArray[0] //task41
+// Setup
+const myArray = [18, 64, 99];
+
+// Only change code below this line
+myArray[0] = 45; //task42

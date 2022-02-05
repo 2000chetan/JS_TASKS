@@ -64,3 +64,4 @@ let myVar = 11;
 
 // Only change code below this line
 --myVar; //task16
+var myDecimal = 2.8; //task17

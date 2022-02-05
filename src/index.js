@@ -193,3 +193,10 @@ myArray.shift();
 
 // Only change code below this line
 myArray.unshift(["Paul", 35]); //task47
+var myList = [
+    ["Canned Beans", 3],
+    ["Milk Galon", 1],
+    ["Cereal", 2],
+    ["Toilet Paper", 12],
+    ["Sack of Rice", 1]
+  ]; //task48

@@ -156,3 +156,6 @@ var wordBlanks = "The " + myAdjective + " " + myNoun + " " + myVerb + " " + myAd
 const myArray = ["1",2]; //task39
 // Only change code below this line
 const myArray = [["Bulls",2],["white",3]]; //task40
+const myArray = [50, 60, 70];
+myArray[0];
+const myData = myArray[0] //task41

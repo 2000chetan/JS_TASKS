@@ -47,3 +47,8 @@ function catTalk() {
   catSound = "Meow!"
 }
 catTalk(); //task9
+const FCC = "freeCodeCamp";
+let fact = "is cool!";
+
+fact = "is awesome!";
+console.log(FCC, fact); //task10

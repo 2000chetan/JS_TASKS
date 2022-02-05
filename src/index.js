@@ -200,3 +200,10 @@ var myList = [
     ["Toilet Paper", 12],
     ["Sack of Rice", 1]
   ]; //task48
+// Define the function
+function reusableFunction() {
+    console.log("Hi World");
+  }
+  
+  // Call the function
+  reusableFunction(); //task49  

@@ -68,3 +68,11 @@ var myDecimal = 2.8; //task17
 var product = 2.0 * 2.5; // product is 5.0 because 2.5 * 2.0 = 5.0 //task18
 var quotient = 4.4 / 2.0; //task19
 var remainder = 14 % 6; //task20
+let a = 3;
+let b = 17;
+let c = 12;
+
+// Only change code below this line
+a += 12;
+b += 9 ;
+c += 7; //task21

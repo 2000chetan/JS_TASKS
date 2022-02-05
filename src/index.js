@@ -84,3 +84,11 @@ let c = 3;
 a -= 6;
 b -=  15;
 c -= 1; //task22
+let a = 5;
+let b = 12;
+let c = 4.6;
+
+// Only change code below this line
+a *= 5;
+b *= 3;
+c *= 10; //task23

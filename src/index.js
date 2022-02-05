@@ -56,3 +56,7 @@ var sum = 10 + 10; //sum gets the value 20 //task11
 var difference = 45 - 33;  //task12
 var product = 8 * 10 //task13
 var quotient = 6 / 3; //task14
+let myVar = 87;
+
+// Only change code below this line
+myVar++; //task15

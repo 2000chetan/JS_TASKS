@@ -15,3 +15,4 @@ var b;
 // Only change code below this line
 b=7;
 b=a; //task4
+var a =9; //task5

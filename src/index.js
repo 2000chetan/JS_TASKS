@@ -109,3 +109,7 @@ myStr += " This is the second sentence."; //task29
 // Only change code below this line
 const myName = "chetan";
 const myStr = "My name is " + myName + " and I am well!"; //task30
+// Change code below this line
+const someAdjective = "chetan";
+let myStr = "Learning to code is ";
+myStr += someAdjective; //task31

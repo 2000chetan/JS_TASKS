@@ -54,3 +54,4 @@ fact = "is awesome!";
 console.log(FCC, fact); //task10
 var sum = 10 + 10; //sum gets the value 20 //task11
 var difference = 45 - 33;  //task12
+var product = 8 * 10 //task13

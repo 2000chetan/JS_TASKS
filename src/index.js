@@ -212,3 +212,6 @@ function reusableFunction() {
   }
   functionWithArgs(1,2);
   functionWithArgs(7,9); //task50
+  function timesFive(num) {
+    return num * 5;
+  }//task51

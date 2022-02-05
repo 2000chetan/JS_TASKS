@@ -293,3 +293,10 @@ function nextInLine(arr, item) {
   console.log("Before: " + JSON.stringify(testArr));
   console.log(nextInLine(testArr, 6));
   console.log("After: " + JSON.stringify(testArr));//task57
+  function welcomeToBooleans() {
+    // Only change code below this line.
+  
+    return true; // Change this line
+  
+    // Only change code above this line.
+  }//task58

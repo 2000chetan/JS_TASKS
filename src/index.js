@@ -103,3 +103,4 @@ c /= 11; //task24
 var myStr="I am a \"double quoted\" string inside \"double quotes\"."; //task25
 var myStr = '<a href="http://www.example.com" target="_blank">Link</a>'; //task26
 var myStr = "FirstLine\n\t\\SecondLine\nThirdLine"; //task27
+const myStr = "This is the start." + " This is the end."; // Change this line //task28

@@ -141,3 +141,8 @@ const lastName = "Lovelace";
 
 // Only change code below this line
 const lastLetterOfLastName = lastName[lastName.length - 1]; // Change this line //task36
+// Setup
+const lastName = "Lovelace";
+
+// Only change code below this line
+const secondToLastLetterOfLastName = lastName[lastName.length-2]; // Change this line //task37
